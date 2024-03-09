@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     margin: 0;
+    padding: 0; 
+}
+.mail{
+    border-radius: 8px;
+    padding: 5px 10px;
+} 
+.name{
+    border-radius: 8px;
+    padding: 5px 10px;
+}
+.password{
+    border-radius: 8px;
+    padding: 5px 10px;
+} 
+.btn{
+    background-color: orange;
+    color: white;
+    padding: 5px 10px; 
+    border-radius: 8px; 
+    margin-top: 9px;
+    cursor: pointer;
+} 
+
+.confirm{
+     border-radius: 8px; 
+    padding: 5px 10px; 
+}
+input{
+    border-radius: 8px;
+    padding: 5px 10px;
+    margin-top: 9px;
+    background-color: aquamarine;
+    align-content: flex-start;
+} 
+.otpverify{
+    display: none;
+}
